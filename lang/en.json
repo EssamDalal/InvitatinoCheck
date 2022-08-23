@@ -1,0 +1,20 @@
+{
+    "welcome": "Registration form to confirm attendance!",
+    "name": "Name",
+    "email": "Email",
+    "position": "Position",
+    "jeha": "jeha",
+    "phone": "Phone Number",
+    "will_come": "Will Come",
+    "questions": "Questions",
+    "buttom": "Login To Admin Page",
+    "confirm": "Confirm",
+    "f_name": "Please add your name !",
+    "f_email": "Please add your email !",
+    "f_position": "Please add your position !",
+    "f_jeha": "Please add your jeha !",
+    "f_phone": "Please add your phone !",
+    "f_yes": "Yes",
+    "f_no": "No",
+    "f_questions": "If you have any Questions Please add it !"
+}
